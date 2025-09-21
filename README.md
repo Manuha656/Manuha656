@@ -16,8 +16,8 @@ Currently exploring **Web Development** and improving my **problem-solving skill
 - Core Computer Science fundamentals  
 
 ### 📫 Reach me at  
-- LinkedIn: [Your LinkedIn Link](#)  
-- Email: your-email@example.com  
+- LinkedIn: [www.linkedin.com/in/enjamurimanuha](#)  
+- Email: enjamurimanuha@gmail.com  
 
 ---
 
