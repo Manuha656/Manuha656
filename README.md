@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🛠️ Languages & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,java,py,c,git,github,vscode" />
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manuha+Enjamuri;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Explorer)](https://git.io/typing-svg)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Manuha656)
