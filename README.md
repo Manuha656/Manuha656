@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Manuha Enjamuri
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-username>/main/avatar.gif" width="120" alt="avatar"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00A8E8&center=true&lines=Hi,+I'm+Manuha;Web+Developer;Learner)](https://git.io/typing-svg)
 
 
 I’m a Computer Science student who loves coding and creating projects.  
