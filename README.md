@@ -1,5 +1,10 @@
 # Hi there 👋, I'm Manuha Enjamuri
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-username>/main/avatar.gif" width="120" alt="avatar"/>
+</p>
+
+
 I’m a Computer Science student who loves coding and creating projects.  
 Currently exploring **Web Development** and improving my **problem-solving skills**.  
 
