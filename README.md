@@ -67,9 +67,9 @@
 ### 📊 GitHub Stats Zone
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&pause=800&color=F7A9A8&center=true&vCenter=true&width=600&lines=🔥+Coding+Stats+Dashboard;💻+Building+Daily+with+MERN+Stack+%26+Redux;🚀+Always+Learning+%26+Improving" alt="Typing SVG" />
+  <!-- Animated header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&pause=800&color=F7A9A8&center=true&vCenter=true&width=680&lines=🔥+Coding+Stats+Dashboard;💻+Building+Daily+with+MERN;🚀+Always+Learning" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <!-- Main GitHub stats (no risky params) -->
