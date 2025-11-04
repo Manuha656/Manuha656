@@ -64,22 +64,26 @@
 
 ---
 
-### 📊 GitHub Stats Zone  
+### 📊 GitHub Stats Zone
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=F7A9A8&center=true&vCenter=true&width=680&lines=🔥+Coding+Stats+Dashboard;💻+Building+Daily+with+MERN;🚀+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&pause=800&color=F7A9A8&center=true&vCenter=true&width=680&lines=🔥+Coding+Stats+Dashboard;💻+Building+Daily+with+MERN;🚀+Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Manuha656&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Main GitHub stats (no risky params) -->
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Manuha656&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <!-- Top Languages -->
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuha656&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuha656&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
+  <!-- Contribution Activity Graph (stable) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuha656&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
+  <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=Manuha656&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
