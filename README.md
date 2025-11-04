@@ -63,9 +63,20 @@
 
 ---
 
+### 📊 GitHub Stats Zone  
 
-### 📊 GitHub Stats Zone
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Manuha656&show_icons=true&theme=radical" alt="Manuha's GitHub stats" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuha656&theme=radical" alt="Manuha's GitHub streak" /> </td> </tr> </table>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Manuha656&show_icons=true&theme=radical" alt="Manuha's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Manuha656&theme=radical" alt="Manuha's GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuha656&layout=compact&theme=radical)
 
 ---
 
