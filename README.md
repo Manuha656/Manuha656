@@ -63,21 +63,8 @@
 
 ---
 
-### 📊 GitHub Stats Zone  
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Manuha656&show_icons=true&theme=radical" alt="Manuha's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Manuha656&theme=radical" alt="Manuha's GitHub streak" />
-    </td>
-  </tr>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuha656&layout=compact&theme=radical)
-
+### 📊 GitHub Stats Zone
+<p align="center"> <!-- Animated header --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=F7A9A8&center=true&vCenter=true&width=600&lines=🔥+Coding+Stats+Dashboard;💻+Building+Daily+with+MERN;🚀+Always+Learning+New+Tech" alt="Typing SVG" /> </p> <p align="center"> <!-- GitHub Stats --> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manuha656&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <!-- GitHub Streak --> <img width="48%" src="https://streak-stats.demolab.com?user=Manuha656&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" /> </p> <p align="center"> <!-- Top Languages --> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuha656&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /> </p> <p align="center"> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuha656&theme=redical&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" /> </p>
 ---
 
 ### 🧩 Coding Profiles  
