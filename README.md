@@ -64,16 +64,8 @@
 ---
 
 
-### 📊 GitHub Stats Zone  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuhaEnjamuri&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuhaEnjamuri&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuhaEnjamuri&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-</p>
+### 📊 GitHub Stats Zone
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Manuha656&show_icons=true&theme=radical" alt="Manuha's GitHub stats" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuha656&theme=radical" alt="Manuha's GitHub streak" /> </td> </tr> </table>
 
 ---
 
